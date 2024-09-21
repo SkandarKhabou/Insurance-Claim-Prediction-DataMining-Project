@@ -1,4 +1,4 @@
-# 🏠 Insurance Claim Prediction 
+### 🏠 Insurance Claim Prediction 
 
 This project aims to build a predictive model to determine whether a building will experience an accident during the insurance period. The goal is to provide personalized insurance contract offers based on this model. 🏢💼 
 
